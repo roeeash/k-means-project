@@ -13,7 +13,6 @@ def create_observs(n, k, rand):
   MAX_n = 440 #for both dimensions
   MAX_k = 20
 
-
   if(rand):
 
      n =  random.randint(MAX_n/2,MAX_n)
